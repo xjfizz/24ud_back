@@ -57,7 +57,7 @@
     "eslint-plugin-vue": "^5.0.0",
     "less": "^3.8.1",
     "less-loader": "^4.1.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "opencollective": "^1.0.3",
     "opencollective-postinstall": "^2.0.2",
     "sass-loader": "^7.1.0",
